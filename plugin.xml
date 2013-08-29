@@ -2,10 +2,10 @@
 
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-      id="org.apache.cordova.core.battery-status001"
+      id="org.apache.cordova.core.battery-status002"
       version="0.2.0">
-    <name>Battery001</name>
-    <description>Cordova Battery Plugin001</description>
+    <name>Battery002</name>
+    <description>Cordova Battery Plugin002</description>
     <license>Apache 2.0</license>
     <keywords>cordova,battery</keywords>
 
